@@ -4289,7 +4289,7 @@ CONFIG_ZSTD_OPTIMIZE_O3=y
 CONFIG_PACKAGE_libacl=y
 CONFIG_PACKAGE_libattr=y
 CONFIG_PACKAGE_libfuse=y
-# CONFIG_PACKAGE_libfuse3 is not set
+CONFIG_PACKAGE_libfuse3=y
 # CONFIG_PACKAGE_libow is not set
 # CONFIG_PACKAGE_libow-capi is not set
 CONFIG_PACKAGE_libsysfs=y
@@ -7797,7 +7797,7 @@ CONFIG_PACKAGE_f2fsck=y
 # CONFIG_PACKAGE_filefrag is not set
 # CONFIG_PACKAGE_fstrim is not set
 CONFIG_PACKAGE_fuse-utils=y
-# CONFIG_PACKAGE_fuse3-utils is not set
+CONFIG_PACKAGE_fuse3-utils=y
 # CONFIG_PACKAGE_hfsfsck is not set
 # CONFIG_PACKAGE_lf is not set
 CONFIG_PACKAGE_lsattr=y
