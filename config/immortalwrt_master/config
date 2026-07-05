@@ -6438,7 +6438,7 @@ CONFIG_PACKAGE_curl=y
 # CONFIG_PACKAGE_onionshare-cli is not set
 # CONFIG_PACKAGE_ps3netsrv is not set
 CONFIG_PACKAGE_rclone=y
-CONFIG_PACKAGE_rclone-config=y
+# CONFIG_PACKAGE_rclone-config is not set
 # CONFIG_PACKAGE_rrsync is not set
 # CONFIG_PACKAGE_rsync is not set
 # CONFIG_PACKAGE_rsyncd is not set
